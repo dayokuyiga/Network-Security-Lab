@@ -1,4 +1,4 @@
-# Network-Security-Lab
+# Network Security Lab
 
 ## Objective
 The Network Security Lab project is established to analzye and undertsand network security operations by using SimSpace and Nmap for netowrk scanning and host directory. This project is aimed to simulate the assessment of network infrastuctures, detect active hosts, and identify potential vulneralbilities in a controlled environment. 
